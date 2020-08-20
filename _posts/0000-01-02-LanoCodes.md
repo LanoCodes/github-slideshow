@@ -2,5 +2,9 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your Text
+Not the bayang!!
+
+![Image of Quinta's Bayang]
+(https://pbs.twimg.com/media/EeoUE01U4AECwCo.jpg)
+
 Use the left arrow to go back!
